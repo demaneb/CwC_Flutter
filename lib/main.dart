@@ -12,6 +12,10 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.deepPurple,
       ),
       home: Home(title: 'Coding with Curry'),
-    );
+    );        onPressed: () {},
+        onPressed: () {},
+        onPressed: () {},
+        onPressed: () {},
+
   }
 }
